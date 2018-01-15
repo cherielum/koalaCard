@@ -1,0 +1,49 @@
+*{
+    color: white;
+    font-family: 'open sans';
+}
+
+body {
+    padding-top: 50px;
+    padding-left: 10%;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    display: block; 
+    margin: auto; 
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.card {
+    border: 10px solid rgb(207, 230, 234);
+    padding: 10px;
+    border-radius: 25px;
+    width: 400px;
+    background-color: rgb(87, 205, 225);
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.cardInfo{
+    border: 1px solid rgb(207, 230, 234);
+    padding: 10px;
+    border-radius: 25px;
+   
+}
